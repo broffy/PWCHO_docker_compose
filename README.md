@@ -3,7 +3,7 @@ Piotr Wojtowicz
 ## build
 
 ```
-git clone https://github.com/broffy/pwcho_docker-compose.git
+git clone https://github.com/broffy/pwcho_docker_compose.git
 cd pwcho_docker-compose
 docker-compose up
 ```
